@@ -30,7 +30,7 @@
 .uno {
    display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
+    min-height: 100vh;
     position: relative;
     overflow: hidden;
 
@@ -38,7 +38,7 @@
 .contenedor-imagenes {
     display: flex;
     width: 100%;
-    height: 70vh; /* Ajuste este valor según el espacio que desee para el texto */
+    height: 70vh; 
 }
 section {
     position: relative;
